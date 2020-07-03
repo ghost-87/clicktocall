@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clicktocall/static/css/main.5f361e03.chunk.css",
+    "main.js": "/clicktocall/static/js/main.bd7d7464.chunk.js",
+    "main.js.map": "/clicktocall/static/js/main.bd7d7464.chunk.js.map",
+    "runtime-main.js": "/clicktocall/static/js/runtime-main.4695cffd.js",
+    "runtime-main.js.map": "/clicktocall/static/js/runtime-main.4695cffd.js.map",
+    "static/js/2.18bd0235.chunk.js": "/clicktocall/static/js/2.18bd0235.chunk.js",
+    "static/js/2.18bd0235.chunk.js.map": "/clicktocall/static/js/2.18bd0235.chunk.js.map",
+    "index.html": "/clicktocall/index.html",
+    "precache-manifest.b7b03ed4dfb71b8233a0558dee4c2f1f.js": "/clicktocall/precache-manifest.b7b03ed4dfb71b8233a0558dee4c2f1f.js",
+    "service-worker.js": "/clicktocall/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/clicktocall/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.18bd0235.chunk.js.LICENSE.txt": "/clicktocall/static/js/2.18bd0235.chunk.js.LICENSE.txt",
+    "static/media/Cancelbutton .png": "/clicktocall/static/media/Cancelbutton .19143c0f.png",
+    "static/media/call.png": "/clicktocall/static/media/call.0fd7213f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4695cffd.js",
+    "static/js/2.18bd0235.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bd7d7464.chunk.js"
+  ]
+}
